@@ -1,7 +1,6 @@
 #ignore all
-*
 
 
 #but not these files
-!auth/
+!google_auth_example
 !.gitignore
